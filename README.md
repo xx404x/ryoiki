@@ -1,24 +1,45 @@
+# school21: jovitara
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4IbknOQGPwUnJj2c76/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV4N2h3cmE5YmRrc3Q5cWNycjJ6MG82NTBmZDdtZHA5cGoybTNhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NvONRxCxKRPpe/giphy.gif" width="600" height="350"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/iopuiou">
+  <a href="https://t.me/vvvwwwv">
   <img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram Badge"/>
     </a>
-  <a href="https://vk.com/lopuio">
-  <img src="https://img.shields.io/badge/-vk-ff69b4" alt="VK Badge"/>
+  <a href="https://vk.com/wrst1">
+  <img src="https://img.shields.io/badge/-vk-1d00d6" alt="VK Badge"/>
     </a>
-  <a href="mailto:mr.flaxo@mail.ru">
-  <img src="https://img.shields.io/badge/-mail.ru-blueviolet" alt="Mail Badge"/>
+  <a href="mailto:vereckaya2425@gmail.com">
+  <img src="https://img.shields.io/badge/-gmail.com-9d00ff" alt="Mail Badge"/>
     </a>
 </div>
-<div id="view" align="center">
-<img src="https://komarev.com/ghpvc/?username=loli-lali&style=flat-square&color=blue" alt=""/>
-  </a>
-  <h1>
-  <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/>
-  hello, cutie 
-  <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30px"/>
-</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/gFkljwfw3QVQQ/giphy.gif" width="800" height="500"/></p># project
+ <div align="left">
+  <p></p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jud3Qzd2U1azVscTc5eTVsbHppaHRnM2tzYTJudmFyZDN4M3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width="40px"> Привет! Меня зовут Александра. Я DevOps-engineer и вот немного обо мне:</p>
+  <ul>
+    <li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jud3Qzd2U1azVscTc5eTVsbHppaHRnM2tzYTJudmFyZDN4M3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width="30px"/> Являюсь студентом Школы21. Изучила базу языка C, C++, Python и выбрала для себя реализацию в DevOps. </li>
+    <li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jud3Qzd2U1azVscTc5eTVsbHppaHRnM2tzYTJudmFyZDN4M3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width="30px"/> Интересуюсь ML, в будущем планирую спроектировать свой ИИ</li>
+  </ul>
+</div>
+
+<div align="left">
+  
+### :hammer_and_wrench: Languages and Tools :
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira"  alt="jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL"  alt="mySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
+</div>
