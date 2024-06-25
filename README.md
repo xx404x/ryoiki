@@ -16,7 +16,7 @@
  <div align="left">
   <p></p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jud3Qzd2U1azVscTc5eTVsbHppaHRnM2tzYTJudmFyZDN4M3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width="40px"> Привет! Меня зовут Александра. Я DevOps-engineer и вот немного обо мне:</p>
   <ul>
-    <li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jud3Qzd2U1azVscTc5eTVsbHppaHRnM2tzYTJudmFyZDN4M3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width="30px"/> Являюсь студентом Школы21. Работаю devops инженером в компании CarX Tech, сюда пушу некоторые проекты со школы и тестовые</li>
+    <li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jud3Qzd2U1azVscTc5eTVsbHppaHRnM2tzYTJudmFyZDN4M3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width="30px"/> Являюсь студентом Школы21. Работаю devops инженером в компании CarX Tech, сюда пушу некоторые проекты со школы</li>
     <li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jud3Qzd2U1azVscTc5eTVsbHppaHRnM2tzYTJudmFyZDN4M3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width="30px"/> Интересуюсь ML, в будущем планирую спроектировать свой ИИ</li>
   </ul>
 </div>
